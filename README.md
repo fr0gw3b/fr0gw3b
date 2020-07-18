@@ -1,7 +1,7 @@
 ### Niroxy 👋
 Salut ! Je suis Niroxy, un petit français qui aime taper sur son clavier
 
-![Stats de Niroxy](https://github-readme-stats.vercel.app/api?username=niroxy&hide_title=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![Stats de Niroxy](https://github-readme-stats-french.vercel.app/api?username=niroxy&hide_title=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 # Mes projets
 ## ⚡ **[DotSpace](https://github.com/Niroxy/DotSpace)**
