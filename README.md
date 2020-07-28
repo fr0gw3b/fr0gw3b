@@ -15,8 +15,7 @@ Hi! I'm Niroxy, a little French guy who likes to type on his keyboard.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=niroxy&show_icons=true&include_all_commits=true&theme=radical" alt="Niroxy github stats" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niroxy&layout=compact&theme=radical" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=niroxy&show_icons=true&include_all_commits=true&theme=radical" alt="Niroxy github stats" /> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niroxy&layout=compact&theme=radical" />
 
 # My projects
 ## ⚡ **[DotSpace](https://github.com/Niroxy/DotSpace)**
