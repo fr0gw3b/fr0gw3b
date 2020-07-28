@@ -1,33 +1,30 @@
 ### Niroxy 👋
-Salut ! Je suis Niroxy, un petit français qui aime taper sur son clavier
+Hi! I'm Niroxy, a little French guy who likes to type on his keyboard.
 
-![Stats de Niroxy](https://github-readme-stats.vercel.app/api?username=niroxy&hide_title=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+## Languages and tools
 
-# Mes projets
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=niroxy&show_icons=true&include_all_commits=true&theme=radical" alt="Niroxy github stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niroxy&layout=compact&theme=radical" />
+
+# My projects
 ## ⚡ **[DotSpace](https://github.com/Niroxy/DotSpace)**
-- Un site abandonné qui permettait de faire rejoindre plein de membres sur un discord.
+- An abandoned and unfinished project.
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=niroxy&repo=DotSpace&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/Niroxy/DotSpace)
 
 ## 🔭 **[Cloner.tech](https://github.com/Niroxy/Cloner.Tech)**
-- Un site venant du future pour copier n'importe quel Discord en cliquant sur quelque bouton !
+- A site from the future to copy any Discord by clicking on two button!
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=niroxy&repo=cloner.tech&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/Niroxy/Cloner.Tech)
 
 ## 👯 **[Hostim.fr](https://hostim.fr/)**
 - Créez votre projet sans dépenser le moindre centime, avec notre hébergeur gratuit, Hostim.
 
-<!--
-**Niroxy/Niroxy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Thanks to [HideakiAtsuyo](https://github.com/HideakiAtsuyo) and [anuraghazra](https://github.com/anuraghazra)
