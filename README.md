@@ -26,4 +26,7 @@
   <img src="https://img.shields.io/badge/DigitalOcean-%230167ff.svg?&style=for-the-badge&logo=digitalOcean&logoColor=white"/>
 </p>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=niroxy&show_icons=true&include_all_commits=true&theme=radical" alt="Niroxy github stats" /> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niroxy&layout=compact&theme=radical" />
+<p align='center'>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=niroxy&show_icons=true&include_all_commits=true&theme=radical" alt="Niroxy github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niroxy&layout=compact&theme=radical" />
+</p>
