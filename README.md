@@ -1,9 +1,9 @@
 <h1 align='center'>
-  Hi there 👋 I'm fr0gw3b 💻
+  Hi there 👋 I'm Frog 💻
 </h1>
 
 <p align='center'>
-  A French guy who likes to type on his keyboard.
+  A guy who likes to type on his keyboard.
 </p>
 
 <p align='center'>
