@@ -27,6 +27,6 @@
 </p>
 
 <p align='center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=niroxy&show_icons=true&include_all_commits=true&theme=radical" alt="Niroxy github stats" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niroxy&layout=compact&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=fr0gw3b&show_icons=true&include_all_commits=true&theme=radical" alt="Frog github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fr0gw3b&layout=compact&theme=radical" />
 </p>
